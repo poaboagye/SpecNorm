@@ -22,22 +22,21 @@ python SpecNorm_usage.py [input_embedding_file] [output_path] --niter 5 --max_vo
 
 ## Mapping
 
-After applying Spectral Normalization you can then align the normalized embeddings using libraries such as [MUSE](https://github.com/facebookresearch/MUSE), [VecMap](https://github.com/artetxem/vecmap) etc.
+After preprocessing the embeddings with Spectral Normalization, you can then align the normalized embeddings using libraries such as [MUSE](https://github.com/facebookresearch/MUSE), [VecMap](https://github.com/artetxem/vecmap), etc.
 
 ## Citation
-If you find anything useful in this work, please cite our [paper](https://openreview.net/forum?id=Nh7CtbyoqV5):
+If you find anything helpful in this work, please cite our [paper](https://openreview.net/forum?id=Nh7CtbyoqV5):
 
 ```
 @inproceedings{aboagye2021normalization,
-  title={Normalization of Language Embeddings for Cross-Lingual Alignment},
-  author={Aboagye, Prince Osei and Zheng, Yan and Yeh, Chin-Chia Michael and Wang, Junpeng and Zhang, Wei and Wang, Liang and Yang, Hao and Phillips, Jeff},
-  booktitle={International Conference on Learning Representations},
-  year={2021}
+  title={Normalization of Language Embeddings for Cross-Lingual Alignment},
+  author={Aboagye, Prince Osei and Zheng, Yan and Yeh, Chin-Chia Michael and Wang, Junpeng and Zhang, Wei and Wang, Liang and Yang, Hao and Phillips, Jeff},
+  booktitle={International Conference on Learning Representations},
+  year={2021}
 }}
 ```
 
 ## Contact
 
 For questions, please email prince@cs.utah.edu
-
 
