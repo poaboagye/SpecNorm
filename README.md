@@ -35,3 +35,9 @@ If you find anything useful in this work, please cite our [paper](https://openre
   year={2021}
 }}
 ```
+
+## Citation
+
+For questions, please email prince@cs.utah.edu
+
+
