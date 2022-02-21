@@ -25,7 +25,7 @@ python SpecNorm_usage.py [input_embedding_file] [output_path] --niter 5 --max_vo
 After applying Spectral Normalization you can then align the normalized embeddings using libraries such as [MUSE](https://github.com/facebookresearch/MUSE), [VecMap](https://github.com/artetxem/vecmap) etc.
 
 ## Citation
-If you are using FIPP in your work, please cite using the following Bibtex entry:
+If you find anything useful in this work, please cite our [paper](https://openreview.net/forum?id=Nh7CtbyoqV5):
 
 ```
 @inproceedings{aboagye2021normalization,
