@@ -9,6 +9,5 @@ This paper proposes a new and general approach to preprocessing (word) embedding
 
 ## How To Apply Spectral Normalization
 
-Given a monoligual word embedding (static and contextual embeddings) or any non-language data such as genomic data, you can apply Spectral Normalization with the following command:
-
+Given a monolingual word embedding (static and contextual embeddings) or any non-language data such as genomic data, you can apply Spectral Normalization with the following command:
 
