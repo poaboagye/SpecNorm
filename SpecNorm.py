@@ -44,39 +44,3 @@ def specNorm(embed, beta):
     # Compute new monolingual embedding     
     embed = embed @ VT.T @ S_prime
     return embed
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
