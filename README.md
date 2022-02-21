@@ -36,7 +36,7 @@ If you find anything useful in this work, please cite our [paper](https://openre
 }}
 ```
 
-## Citation
+## Contact
 
 For questions, please email prince@cs.utah.edu
 
