@@ -19,3 +19,7 @@ Given a monolingual word embedding (static and contextual embeddings) or any non
 ```
 python SpecNorm_usage.py [input_embedding_file] [output_path] --niter 5 --max_vocab 200000 --beta 5 
 ```
+
+## Mapping
+
+After applying Spectral Normalization you can then align the normalized embeddings using libraries such as [MUSE](https://github.com/facebookresearch/MUSE), [VecMap](https://github.com/artetxem/vecmap) etc.
