@@ -1,4 +1,4 @@
-<p align="center"><img width="50%" src="lSpecNorm-example-long.pdf" /></p>
+<p align="center"><img width="50%" src="SN.jpg" /></p>
 
 ----
 
