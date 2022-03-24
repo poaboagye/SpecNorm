@@ -1,6 +1,8 @@
-# Normalization of Language Embeddings for Cross-Lingual Alignment
+<p align="center"><img width="50%" src="lSpecNorm-example-long.pdf" /></p>
 
-!(SpecNorm-example-long.pdf)
+----
+
+# Normalization of Language Embeddings for Cross-Lingual Alignment
 
 Repository for the implemention of **Spectral Normalization** from our ICLR 2022 [paper](https://openreview.net/forum?id=Nh7CtbyoqV5):
 
