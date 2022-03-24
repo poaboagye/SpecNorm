@@ -1,4 +1,4 @@
-<p align="center"><img width="70%" src="SN.jpg" /></p>
+<p align="center"><img width="90%" src="SN.jpg" /></p>
 
 ----
 
