@@ -21,7 +21,7 @@ This paper proposes a new and general approach to preprocessing (word) embedding
 Given a monolingual word embedding (static and contextual embeddings) or any non-language data such as genomic data, you can apply Spectral Normalization with the following command:
 
 ```
-python SpecNorm_usage.py [input_embedding_file] [output_path] --niter 5 --max_vocab 200000 --beta 2
+python SpecNorm_usage.py --input_file INPUT_EMBED --output_file OUTPUT_PATH --niter 5 --max_vocab 200000 --beta 2
 ```
 
 ## Mapping
