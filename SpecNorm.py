@@ -14,7 +14,7 @@ def computeSVD(embed):
         emded: Monolingual Embedding    
 
     Returns:
-        Singular Value Decompostion
+        Singular Value Decomposition
     """
     U, S, VT = np.linalg.svd(embed,full_matrices=False)
     return U, S, VT
@@ -27,7 +27,7 @@ def specNorm(embed, beta):
         singular values to be removed
 
     Returns:
-        Spectral Normalised Embedding
+        Spectral Normalized Embedding
     """
     # Perform SVD on the Data
     _, S, VT = computeSVD(embed)
